@@ -39,20 +39,6 @@
 
 ---
 # 🛠️ How to Copy and Update the Project
-### 📝 Getting Started: Project Setup & Workflow
-
-To easily copy and update this project, you need to have a few tools and follow a simple workflow. The process is divided into three clear steps:
-
-1. 🖥️ **Prepare Your Computer**  
-   Ensure Git is installed so you can manage project files and updates.
-
-2. 📥 **Copy the Project to Your Computer from GitHub**  
-   Download a local copy of the project so you can work on it.
-
-3. 💾 **Save Your Changes and Sync with the Online Project**  
-   Learn how to save your work and keep your local copy up to date with the latest changes.
-
-Use the guide below to follow each step in detail.
 
 ## 1. 🖥️ **To make Git work properly, you need to have Git installed on your computer.**
 
