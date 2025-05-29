@@ -15,7 +15,6 @@ The personality system consists of various traits that can be assigned to pets. 
 | Hunger        | Needs regular feeding, becomes unhappy if hungry for too long.     | Gets hungry quickly                            | Eats less frequently                             |
 | Restless      | Needs rest, becomes unhappy if not allowed to sleep.               | Requires more sleep                            | Needs less sleep                                 |
 | Affectionate  | Likes to be petted and cuddled, responds positively to affection.  | Seeks frequent affection                       | Prefers less physical contact                    |
-| Curious       | Explores surroundings, enjoys discovering new things.              | Seeks new experiences                          | Content with routine                             |
 | Social        | Enjoys being around other pets, becomes unhappy if isolated.       | High interaction increases happiness           | Prefers solitude                                 |
 | Cleanliness   | Enjoys being clean, dislikes dirt or mess.                         | Seeks cleaning, avoids dirty areas             | Tolerates mess, dislikes being cleaned           |
 
