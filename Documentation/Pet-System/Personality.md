@@ -25,13 +25,12 @@ The Personality System is implemented as a struct that holds the personality tra
 // Default struct for pet personality, used to initialize a pet's personality traits.
 personality = {
     friendly: 0.5,      // 0 to 1 scale
-    playful: 0.5,       // 0 to 1 scale
     active: 0.5,        // 0 to 1 scale
     hunger: 0.5,        // 0 to 1 scale
     restless: 0.5,      // 0 to 1 scale
     affectionate: 0.5,  // 0 to 1 scale
-    curious: 0.5,       // 0 to 1 scale
-    social: 0.5         // 0 to 1 scale
+    social: 0.5,        // 0 to 1 scale
+    cleanliess: 0.5     // 0 to 1 scale
 };
 ```
 
