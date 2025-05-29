@@ -114,7 +114,7 @@
 **Title**: Virtual Pet Game  
 **Version**: 0.0  
 **Operating System Target**: Android  
-**Resolution**: 540 x 960 (Portrait)  
+**Resolution**: 180 x 320 (Portrait)  
 **Engine**: GameMaker Studio  
 **Language**: GML (GameMaker Language)  
 **License**: Proprietary  
