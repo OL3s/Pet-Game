@@ -1,6 +1,7 @@
 # Virtual Pet Game
 
-## 📑 Contents
+---
+# 📑 Contents
 
 ### 🗂️ Main Sections
 - 🛠️ [How to Copy and Update the Project](#️-how-to-copy-and-update-the-project)
@@ -10,7 +11,9 @@
 
 ### 📚 Documentation
 
-#### 🐾 Pet System Documentation
+<details>
+<summary>🐾 <b>Pet System Documentation</b></summary>
+
 - 📄 [Overview](Documentation/Pet-System/Overview.md)
 - 😊 [Mood](Documentation/Pet-System/Mood.md)
 - 🍖 [Food](Documentation/Pet-System/Food.md)
@@ -20,7 +23,11 @@
 - 🏨 [Hotel](Documentation/Pet-System/Hotel.md)
 - 🩺 [Vet](Documentation/Pet-System/Vet.md)
 
-#### 🏠 Scenes Documentation
+</details>
+
+<details>
+<summary>🏠 <b>Scenes Documentation</b></summary>
+
 - 📄 [Overview](Documentation/Scenes/Overview.md)
 - 🏡 [Home](Documentation/Scenes/Home.md)
 - 🏨 [Hotel](Documentation/Scenes/Hotel.md)
@@ -28,6 +35,9 @@
 - 🏪 [Store](Documentation/Scenes/Store.md)
 - 🩺 [Vet](Documentation/Scenes/Vet.md)
 
+</details>
+
+---
 # 🛠️ How to Copy and Update the Project
 
 ### 📋 Contents
@@ -41,20 +51,29 @@
 1. **Download and install Git** from [git-scm.com](https://git-scm.com/downloads).
 
 2. Press the **Button** stating **Download for Windows** (or your operating system) to download the installer.
+<details>
 
-    ![Download](/Git-Manual/image-1.png)
+![Download](/Git-Manual/image-1.png)
+
+</details>
 
 3. Press the **Standard Installation** called "Git for Windows/x64 Setup." 
+<details>
 
-    ![Install](/Git-Manual/image-2.png)
+![Standard Installation](/Git-Manual/image-2.png)
+
+</details>
 
 ---
 
 ### 📥 **To make a copy of this project on your computer:**
 1. **Right-click** inside the folder where you want to put the project.
 2. Click **Open in Terminal** (see picture below):
+<details>
 
-   ![Open in Terminal](/Git-Manual/image.png)
+![Open in Terminal](/Git-Manual/image.png)
+
+</details>
 
 3. In the terminal window that opens, type:
    ```bash
@@ -75,6 +94,7 @@
    ```
 3. 🛡️ Git will automatically detect all changes, including images and other files, and only update the files (including images) that have been changed. This means you don’t have to worry. Your work will always be safe, up to date, and nothing extra will be overwritten.
 
+---
 # 🎮 Game Details
 
 **Title**: Virtual Pet Game  
@@ -87,9 +107,11 @@
 **Author**: OL3s (Ole-Kristian Wigum) & H...  
 **License URL**: *(Not open source. All rights reserved.)*
 
+---
 # 📝 Overview
 A virtual pet mobile game where players care for a pet by feeding, playing, and resting it.
 
+---
 # ✨ Features
 - 🖐️ Touch-based controls
 - 📱 Mobile-friendly layout
