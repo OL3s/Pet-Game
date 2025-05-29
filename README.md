@@ -72,7 +72,8 @@ Use the guide below to follow each step in detail.
 
 </details>
 
-## 2. 📥 **To make a copy of this project on your computer:**
+## 2. 📥 **Connect the project to your computer:**
+
 1. **Right-click** inside the folder where you want to put the project.
 2. Click **Open in Terminal** (see picture below):
 <details>
@@ -86,17 +87,40 @@ Use the guide below to follow each step in detail.
    git clone https://github.com/OL3s/Pet-Game.git
    ```
 
-## 3. 💾 **To save your changes and send them to the online project:**
-1. Open the terminal inside your project folder  
-   (Right-click the folder and select **Open in Terminal**—see the picture above).
-2. Type these commands, one at a time:
+## 3. 💾 **To get updates from the online project and save your changes:**
+
+1. **Get the latest updates from GitHub:**  
+   Open the terminal in your project folder. If you need help finding the terminal, see the image below for how to right-click in a folder and select "Open in Terminal":
+
+<details>
+
+![Open in Terminal](/Git-Manual/image.png)
+
+</details>
+
+   Then, run:
    ```bash
    git pull
+   ```
+   This will download any new changes from the online project.
+
+2. **Save your changes:**  
+   After making changes to your files, run:
+   ```bash
    git add -A
-   git commit -m "Write what you changed here"
+   git commit -m "Describe what you changed"
+   ```
+   This will save your changes locally.
+
+3. **Send your changes to the online project:**  
+   Push your changes to GitHub with:
+   ```bash
    git push
    ```
-3. 🛡️ Git will automatically detect all changes, including images and other files, and only update the files (including images) that have been changed. This means you don’t have to worry. Your work will always be safe, up to date, and nothing extra will be overwritten.
+   This will upload your changes so they are available online.
+
+> 💡 **Tip:** Git will only update files that have changed, so your work stays safe and up to date.
+
 
 ---
 # 🎮 Game Details
