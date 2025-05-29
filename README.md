@@ -1,4 +1,4 @@
-# 🐶 Virtual Pet Game
+# Virtual Pet Game
 
 ## 📑 Contents
 
