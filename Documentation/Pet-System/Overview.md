@@ -11,6 +11,8 @@ This section provides detailed documentation about the pet systems in the Virtua
 - [Interact](Interact.md): Describes the different ways you can interact with your pets.
 - [Personality](Personality.md): Explains the personality system and how it makes each pet unique.
 - [Stats](Stats.md): Information about the stats system, including health, energy, hunger, and more.
+- [Hotel](Hotel.md): Explains the hotel system for pet care during player absences.
+- [Vet](Vet.md): Details about the vet system for managing pet health and sickness.
 
 ## Purpose
 
