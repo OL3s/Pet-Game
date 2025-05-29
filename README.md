@@ -1,13 +1,25 @@
 # Virtual Pet Game
 
-## How to Copy and Update the Project
 ### Contents
+
+- [How to Copy and Update the Project](#how-to-copy-and-update-the-project)
+- [Game Details](#game-details)
+- [Overview](#overview)
+- [Features](#features)
+- [Documentation](#documentation)
+
+## How to Copy and Update the Project
+
+### Contents
+
 - [Make Git Work Properly](#to-make-git-work-properly-you-need-to-have-git-installed-on-your-computer)
 - [Copy the Project](#to-make-a-copy-of-this-project-on-your-computer)
 - [Save and Update Changes](#to-save-your-changes-and-send-them-to-the-online-project)
 
 ### **To make Git work properly, you need to have Git installed on your computer.**
+
 1. **Download and install Git** from [git-scm.com](https://git-scm.com/downloads).
+
 2. Press the **Button** stating **Download for Windows** (or your operating system) to download the installer.
 
     ![Download](/Git-Manual/image-1.png)
@@ -59,3 +71,12 @@ A virtual pet mobile game where players care for a pet by feeding, playing, and 
 ## Features
 - Touch-based controls
 - Mobile-friendly layout
+
+## Documentation
+
+- [Bath System](Documentation/BathSystem.md)
+- [Food System](Documentation/FoodSystem.md)
+- [Interact System](Documentation/InteractSystem.md)
+- [Personality System](Documentation/PersonalitySystem.md)
+- [Pet System](Documentation/PetSystem.md)
+- [Stats System](Documentation/StatsSystem.md)
