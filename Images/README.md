@@ -1,7 +1,7 @@
 Make a good and structured folder system in this folder to keep your files organized.
 
 Example folder structure for organizing your images and animation sources:
-
+```
 Images/
 ├── UI/
 │   ├── buttons/
@@ -32,3 +32,4 @@ Images/
 │   ├── world-map.png
 │   └── ...
 └── ...
+```
