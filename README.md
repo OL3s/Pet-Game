@@ -30,10 +30,13 @@
 
 - 📄 [Overview](Documentation/Scenes/Overview.md)
 - 🏡 [Home](Documentation/Scenes/Home.md)
+  - 🛁 [Bathing](Documentation/Scenes/Bathing.md)
+  - 🔍 [Closeup](Documentation/Scenes/Closeup.md)
 - 🏨 [Hotel](Documentation/Scenes/Hotel.md)
 - 🗺️ [Map](Documentation/Scenes/Map.md)
 - 🏪 [Store](Documentation/Scenes/Store.md)
 - 🩺 [Vet](Documentation/Scenes/Vet.md)
+- 🖼️ [Wireframes](Documentation/Scenes/Wireframes.md)
 
 </details>
 
