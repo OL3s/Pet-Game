@@ -42,11 +42,11 @@
 
 ### 📋 Contents
 
-- 🖥️ [Make Git Work Properly](#to-make-git-work-properly-you-need-to-have-git-installed-on-your-computer)
-- 📥 [Copy the Project](#to-make-a-copy-of-this-project-on-your-computer)
-- 💾 [Save and Update Changes](#to-save-your-changes-and-send-them-to-the-online-project)
+1. 🖥️ [Make Git Work Properly](#to-make-git-work-properly-you-need-to-have-git-installed-on-your-computer)
+2. 📥 [Copy the Project](#to-make-a-copy-of-this-project-on-your-computer)
+3. 💾 [Save and Update Changes](#to-save-your-changes-and-send-them-to-the-online-project)
 
-### 🖥️ **To make Git work properly, you need to have Git installed on your computer.**
+### 1. 🖥️ **To make Git work properly, you need to have Git installed on your computer.**
 
 1. **Download and install Git** from [git-scm.com](https://git-scm.com/downloads).
 
@@ -66,7 +66,7 @@
 
 ---
 
-### 📥 **To make a copy of this project on your computer:**
+### 2. 📥 **To make a copy of this project on your computer:**
 1. **Right-click** inside the folder where you want to put the project.
 2. Click **Open in Terminal** (see picture below):
 <details>
@@ -82,7 +82,7 @@
 
 ---
 
-### 💾 **To save your changes and send them to the online project:**
+### 3. 💾 **To save your changes and send them to the online project:**
 1. Open the terminal inside your project folder  
    (Right-click the folder and select **Open in Terminal**—see the picture above).
 2. Type these commands, one at a time:
