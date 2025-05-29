@@ -39,14 +39,22 @@
 
 ---
 # 🛠️ How to Copy and Update the Project
+### 📝 Getting Started: Project Setup & Workflow
 
-### 📋 Contents
+To easily copy and update this project, you need to have a few tools and follow a simple workflow. The process is divided into three clear steps:
 
-1. 🖥️ [Make Git Work Properly](#to-make-git-work-properly-you-need-to-have-git-installed-on-your-computer)
-2. 📥 [Copy the Project](#to-make-a-copy-of-this-project-on-your-computer)
-3. 💾 [Save and Update Changes](#to-save-your-changes-and-send-them-to-the-online-project)
+1. 🖥️ **Prepare Your Computer**  
+   Ensure Git is installed so you can manage project files and updates.
 
-### 1. 🖥️ **To make Git work properly, you need to have Git installed on your computer.**
+2. 📥 **Copy the Project to Your Computer from GitHub**  
+   Download a local copy of the project so you can work on it.
+
+3. 💾 **Save Your Changes and Sync with the Online Project**  
+   Learn how to save your work and keep your local copy up to date with the latest changes.
+
+Use the guide below to follow each step in detail.
+
+## 1. 🖥️ **To make Git work properly, you need to have Git installed on your computer.**
 
 1. **Download and install Git** from [git-scm.com](https://git-scm.com/downloads).
 
@@ -64,9 +72,7 @@
 
 </details>
 
----
-
-### 2. 📥 **To make a copy of this project on your computer:**
+## 2. 📥 **To make a copy of this project on your computer:**
 1. **Right-click** inside the folder where you want to put the project.
 2. Click **Open in Terminal** (see picture below):
 <details>
@@ -80,9 +86,7 @@
    git clone https://github.com/OL3s/Pet-Game.git
    ```
 
----
-
-### 3. 💾 **To save your changes and send them to the online project:**
+## 3. 💾 **To save your changes and send them to the online project:**
 1. Open the terminal inside your project folder  
    (Right-click the folder and select **Open in Terminal**—see the picture above).
 2. Type these commands, one at a time:
