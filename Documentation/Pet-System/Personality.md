@@ -11,7 +11,6 @@ The personality system consists of various traits that can be assigned to pets. 
 | Personality   | Description                                                        | High Value Effect                              | Low Value Effect                                 |
 |---------------|--------------------------------------------------------------------|------------------------------------------------|--------------------------------------------------|
 | Friendly      | Enjoys interaction, responds positively to other pets.             | Seeks frequent interaction                     | Avoids social contact                            |
-| Playful       | Loves to play, engages in games with other pets.                   | Frequently requests play                       | Rarely initiates play                            |
 | Active        | High energy, requires frequent playtime and exercise.              | Needs lots of activity                         | Prefers calm, low-activity                       |
 | Hunger        | Needs regular feeding, becomes unhappy if hungry for too long.     | Gets hungry quickly                            | Eats less frequently                             |
 | Restless      | Needs rest, becomes unhappy if not allowed to sleep.               | Requires more sleep                            | Needs less sleep                                 |
