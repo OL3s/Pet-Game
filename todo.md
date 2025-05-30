@@ -1,0 +1,1 @@
+- [ ] Make dictionary for each pet
