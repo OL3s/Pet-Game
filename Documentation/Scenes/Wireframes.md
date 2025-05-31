@@ -138,6 +138,8 @@
 └─────────────────────────────────────┘
 ```
 
+</details>
+
 <details>
 <summary>Toys</summary>
 
@@ -485,6 +487,9 @@
 
 ## Home Scene - Pet Bathing
 
+<details>
+<summary>Pet Bathing</summary>
+
 ```
 ┌─────────────────────────────────────┐
 │ Coins: 99               ┌───┐       │
@@ -519,7 +524,12 @@
 
 ```
 
+</details>
+
 ## Home Scene - Closeup
+
+<details>
+<summary>Pet Closeup</summary>
 
 ```
 ┌─────────────────────────────────────┐
@@ -548,3 +558,5 @@
 │           └────────────────┘         │
 └─────────────────────────────────────┘
 ```
+
+</details>
