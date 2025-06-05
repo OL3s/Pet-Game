@@ -58,4 +58,6 @@ Pet bilder:
   - Move
   - Jump?
   - Eat
+  - Sleep
+  - Poop
 - Close-up ansikt(128x128)?
