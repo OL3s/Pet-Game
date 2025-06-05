@@ -35,7 +35,7 @@ Images/
 ```
 
 Dimensjon forslag:
-- Skjerm: 90x160
+- Skjerm: 90x160  16:9
 - Hoved-Rom: 270x160
 - Pet: 32x32
 - Knapper: 16x16 -> 32x16 -> 48x16 -> 64x16
